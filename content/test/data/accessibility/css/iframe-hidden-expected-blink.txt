@@ -1,0 +1,19 @@
+rootWebArea name='done'
+++genericContainer ignored
+++++genericContainer ignored
+++++++main
+++++++++paragraph
+++++++++++staticText name='Before visibility:collapse iframes'
+++++++++++++inlineTextBox
+++++++++paragraph
+++++++++++staticText name='After visibility:collapse iframes'
+++++++++++++inlineTextBox
+++++++genericContainer ignored
+++++++++splitter horizontal
+++++++footer
+++++++++paragraph
+++++++++++staticText name='Before display:none iframes'
+++++++++++++inlineTextBox
+++++++++paragraph
+++++++++++staticText name='After display:none iframes'
+++++++++++++inlineTextBox

@@ -1,0 +1,10 @@
+UNKNOWN focusable has_input_focus
+++UNKNOWN hidden
+++++UNKNOWN
+++++++STATIC_TEXT label='One word is '
+++++++++UNKNOWN
+++++++UNKNOWN
+++++++++STATIC_TEXT label='emphasized'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label='.'
+++++++++UNKNOWN

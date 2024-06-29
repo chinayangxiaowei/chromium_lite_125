@@ -1,0 +1,29 @@
+UNKNOWN focusable has_input_focus
+++UNKNOWN hidden
+++++UNKNOWN
+++++++LINK focusable label='Link with image at start.' actions='{DEFAULT}'
+++++++++IMAGE label='Link' actions='{DEFAULT}'
+++++++++STATIC_TEXT label=' with image at start.' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++LINK focusable label='Link with bullet image in the middle.' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Link with ' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++++IMAGE label='bullet image' actions='{DEFAULT}'
+++++++++STATIC_TEXT label=' in the middle.' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++LINK focusable label='Link with broken in the middle.' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Link with ' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++++IMAGE label='broken' actions='{DEFAULT}'
+++++++++STATIC_TEXT label=' in the middle.' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++LINK focusable label='Link with image at the end, it's a bullet' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Link with image at the ' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++++IMAGE label='end, it's a bullet' actions='{DEFAULT}'

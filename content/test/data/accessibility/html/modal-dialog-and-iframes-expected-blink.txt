@@ -1,0 +1,20 @@
+rootWebArea
+++genericContainer ignored invisible
+++++dialog
+++++++paragraph
+++++++++staticText name='Text in the dialog.'
+++++++++++inlineTextBox
+++++++iframe
+++++++++rootWebArea
+++++++++++genericContainer ignored
+++++++++++++genericContainer ignored
+++++++++++++++paragraph
+++++++++++++++++staticText name='Text in normal iframe'
+++++++++++++++++++inlineTextBox
+++++++++++++++iframe
+++++++++++++++++rootWebArea
+++++++++++++++++++genericContainer ignored
+++++++++++++++++++++genericContainer ignored
+++++++++++++++++++++++paragraph
+++++++++++++++++++++++++staticText name='Text in nested normal iframe'
+++++++++++++++++++++++++++inlineTextBox

@@ -1,0 +1,12 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer
+++++++button keyShortcuts='Ctrl+X' name='Cut'
+++++++++staticText name='Cut'
+++++++++++inlineTextBox
+++++++button keyShortcuts='Ctrl+C' name='Copy'
+++++++++staticText name='Copy'
+++++++++++inlineTextBox
+++++++button keyShortcuts='Ctrl+V' name='Paste'
+++++++++staticText name='Paste'
+++++++++++inlineTextBox

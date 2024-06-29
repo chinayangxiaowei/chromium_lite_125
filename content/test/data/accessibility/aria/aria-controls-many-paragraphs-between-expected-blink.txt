@@ -1,0 +1,15 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++button name='First button' controlsIds=paragraph
+++++++++staticText name='First button'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='First paragraph'
+++++++++++inlineTextBox
+++++++button name='Last button' controlsIds=paragraph
+++++++++staticText name='Last button'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='Last paragraph'
+++++++++++inlineTextBox

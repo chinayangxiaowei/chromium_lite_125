@@ -1,0 +1,10 @@
+rootWebArea name='done'
+++genericContainer ignored
+++++genericContainer ignored
+++++++heading name='From hidden'
+++++++++group
+++++++++++mark
+++++++++++++staticText name='xyz'
+++++++++++++++inlineTextBox
+++++++++staticText name='From hidden'
+++++++++++inlineTextBox

@@ -1,0 +1,12 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++genericContainer multiline value='Testxy'
+++++++++genericContainer className='outer' nextOnLineId=inlineTextBox
+++++++++++staticText name='Test' nextOnLineId=inlineTextBox
+++++++++++++inlineTextBox nextOnLineId=inlineTextBox
+++++++++++genericContainer className='inner' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++staticText name='x' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++staticText name='y' previousOnLineId=inlineTextBox
+++++++++++inlineTextBox previousOnLineId=inlineTextBox

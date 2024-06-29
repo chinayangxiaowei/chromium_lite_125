@@ -1,0 +1,11 @@
+UNKNOWN focusable has_input_focus
+++UNKNOWN hidden
+++++UNKNOWN
+++++++UNKNOWN
+++++++++STATIC_TEXT label='10:00'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++UNKNOWN
+++++++++STATIC_TEXT label='Valentines day'
+++++++++++UNKNOWN

@@ -1,0 +1,36 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++layoutTable
+++++++++genericContainer ignored
+++++++++++layoutTableRow
+++++++++++++layoutTableCell name='a'
+++++++++++++++staticText name='a'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='b'
+++++++++++++++staticText name='b'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='c'
+++++++++++++++staticText name='c'
+++++++++++++++++inlineTextBox
+++++++++genericContainer ignored
+++++++++++layoutTableRow
+++++++++++++layoutTableCell name='a'
+++++++++++++++staticText name='a'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='b'
+++++++++++++++staticText name='b'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='c'
+++++++++++++++staticText name='c'
+++++++++++++++++inlineTextBox
+++++++++++layoutTableRow
+++++++++++++layoutTableCell name='a'
+++++++++++++++staticText name='a'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='b'
+++++++++++++++staticText name='b'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='c'
+++++++++++++++staticText name='c'
+++++++++++++++++inlineTextBox

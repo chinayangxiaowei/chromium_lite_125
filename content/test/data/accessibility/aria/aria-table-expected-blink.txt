@@ -1,0 +1,18 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++table
+++++++++row
+++++++++++columnHeader name='Browser'
+++++++++++++staticText name='Browser'
+++++++++++++++inlineTextBox
+++++++++++columnHeader name='Rendering Engine'
+++++++++++++staticText name='Rendering Engine'
+++++++++++++++inlineTextBox
+++++++++row
+++++++++++cell name='Chrome'
+++++++++++++staticText name='Chrome'
+++++++++++++++inlineTextBox
+++++++++++cell name='Blink'
+++++++++++++staticText name='Blink'
+++++++++++++++inlineTextBox

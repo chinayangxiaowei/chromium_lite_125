@@ -1,0 +1,55 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++list
+++++++++listItem hierarchicalLevel=1
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++genericContainer
+++++++++++++staticText name='tic'
+++++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++button name='a button'
+++++++++++++staticText name='a button'
+++++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++genericContainer
+++++++++++++staticText name='tac'
+++++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++genericContainer
+++++++++++++staticText name='toe'
+++++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++link name='a link'
+++++++++++++staticText name='a link'
+++++++++++++++inlineTextBox
+++++++list
+++++++++listItem hierarchicalLevel=1
+++++++++++genericContainer
+++++++++++++staticText name='tic'
+++++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++button name='a button'
+++++++++++++staticText name='a button'
+++++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++genericContainer
+++++++++++++staticText name='tac'
+++++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++genericContainer
+++++++++++++staticText name='toe'
+++++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++link name='a link'
+++++++++++++staticText name='a link'
+++++++++++++++inlineTextBox

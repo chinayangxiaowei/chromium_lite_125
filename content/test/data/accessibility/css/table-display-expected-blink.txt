@@ -1,0 +1,18 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++layoutTable
+++++++++genericContainer ignored
+++++++++++layoutTableRow
+++++++++++++layoutTableCell name='Cats'
+++++++++++++++staticText name='Cats'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='Dogs'
+++++++++++++++staticText name='Dogs'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='Iguanas'
+++++++++++++++staticText name='Iguanas'
+++++++++++++++++inlineTextBox
+++++++++++++layoutTableCell name='Fish'
+++++++++++++++staticText name='Fish'
+++++++++++++++++inlineTextBox

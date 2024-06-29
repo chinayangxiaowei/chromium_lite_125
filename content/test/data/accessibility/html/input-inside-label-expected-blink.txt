@@ -1,0 +1,23 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer
+++++++checkBox inputType='checkbox' name='foo bar baz' checkedState=false
+++++++labelText
+++++++++staticText name='foo'
+++++++++++inlineTextBox
+++++++++textField inputType='text' value='bar'
+++++++++++genericContainer
+++++++++++++staticText name='bar'
+++++++++++++++inlineTextBox
+++++++++staticText name='baz'
+++++++++++inlineTextBox
+++++++checkBox inputType='checkbox' name='foo bar baz' checkedState=false
+++++++labelText
+++++++++staticText name='foo '
+++++++++++inlineTextBox
+++++++++textField inputType='text' value='bar'
+++++++++++genericContainer
+++++++++++++staticText name='bar'
+++++++++++++++inlineTextBox
+++++++++staticText name=' baz'
+++++++++++inlineTextBox

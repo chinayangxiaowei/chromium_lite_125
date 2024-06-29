@@ -1,0 +1,57 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++paragraph textOverlineStyle=solid
+++++++++staticText name='overline style: none' textOverlineStyle=solid
+++++++++++inlineTextBox
+++++++paragraph textOverlineStyle=dotted
+++++++++staticText name='overline style: dotted' textOverlineStyle=dotted
+++++++++++inlineTextBox
+++++++paragraph textOverlineStyle=dashed
+++++++++staticText name='overline style: dashed' textOverlineStyle=dashed
+++++++++++inlineTextBox
+++++++paragraph textOverlineStyle=solid
+++++++++staticText name='overline style: solid' textOverlineStyle=solid
+++++++++++inlineTextBox
+++++++paragraph textOverlineStyle=double
+++++++++staticText name='overline style: double' textOverlineStyle=double
+++++++++++inlineTextBox
+++++++paragraph textOverlineStyle=wavy
+++++++++staticText name='overline style: wavy' textOverlineStyle=wavy
+++++++++++inlineTextBox
+++++++paragraph textUnderlineStyle=solid
+++++++++staticText name='underline style: none' textUnderlineStyle=solid
+++++++++++inlineTextBox
+++++++paragraph textUnderlineStyle=dotted
+++++++++staticText name='underline style: dotted' textUnderlineStyle=dotted
+++++++++++inlineTextBox
+++++++paragraph textUnderlineStyle=dashed
+++++++++staticText name='underline style: dashed' textUnderlineStyle=dashed
+++++++++++inlineTextBox
+++++++paragraph textUnderlineStyle=solid
+++++++++staticText name='underline style: solid' textUnderlineStyle=solid
+++++++++++inlineTextBox
+++++++paragraph textUnderlineStyle=double
+++++++++staticText name='underline style: double' textUnderlineStyle=double
+++++++++++inlineTextBox
+++++++paragraph textUnderlineStyle=wavy
+++++++++staticText name='underline style: wavy' textUnderlineStyle=wavy
+++++++++++inlineTextBox
+++++++paragraph textStrikethroughStyle=solid
+++++++++staticText name='line-through style: none' textStrikethroughStyle=solid
+++++++++++inlineTextBox
+++++++paragraph textStrikethroughStyle=dotted
+++++++++staticText name='line-through style: dotted' textStrikethroughStyle=dotted
+++++++++++inlineTextBox
+++++++paragraph textStrikethroughStyle=dashed
+++++++++staticText name='line-through style: dashed' textStrikethroughStyle=dashed
+++++++++++inlineTextBox
+++++++paragraph textStrikethroughStyle=solid
+++++++++staticText name='line-through style: solid' textStrikethroughStyle=solid
+++++++++++inlineTextBox
+++++++paragraph textStrikethroughStyle=double
+++++++++staticText name='line-through style: double' textStrikethroughStyle=double
+++++++++++inlineTextBox
+++++++paragraph textStrikethroughStyle=wavy
+++++++++staticText name='line-through style: wavy' textStrikethroughStyle=wavy
+++++++++++inlineTextBox

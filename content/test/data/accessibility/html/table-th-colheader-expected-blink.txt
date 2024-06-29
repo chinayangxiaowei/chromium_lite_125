@@ -1,0 +1,19 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++table ariaColumnCount=2 tableColumnCount=2
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++columnHeader name='Firstname' ariaCellColumnIndex=1 tableCellColumnIndex=0
+++++++++++++++staticText name='Firstname'
+++++++++++++++++inlineTextBox
+++++++++++++columnHeader name='Lastname' ariaCellColumnIndex=2 tableCellColumnIndex=1
+++++++++++++++staticText name='Lastname'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='Jill' ariaCellColumnIndex=1 tableCellColumnIndex=0
+++++++++++++++staticText name='Jill'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='Smith' ariaCellColumnIndex=2 tableCellColumnIndex=1
+++++++++++++++staticText name='Smith'
+++++++++++++++++inlineTextBox

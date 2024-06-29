@@ -1,0 +1,10 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++descriptionList
+++++++++term
+++++++++++staticText name='Coffee'
+++++++++++++inlineTextBox
+++++++++definition
+++++++++++staticText name='Black hot drink'
+++++++++++++inlineTextBox

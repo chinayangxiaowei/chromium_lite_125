@@ -1,0 +1,11 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++section
+++++++++button default name='Submit'
+++++++++++staticText name='Submit'
+++++++++++++inlineTextBox
+++++++form name='Name'
+++++++++button default name='Submit'
+++++++++++staticText name='Submit'
+++++++++++++inlineTextBox

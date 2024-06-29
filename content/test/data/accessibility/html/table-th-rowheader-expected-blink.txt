@@ -1,0 +1,19 @@
+rootWebArea name='Table example - th rowheader'
+++genericContainer ignored
+++++genericContainer ignored
+++++++table
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++rowHeader name='Firstname'
+++++++++++++++staticText name='Firstname'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='Jill'
+++++++++++++++staticText name='Jill'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++rowHeader name='Lastname'
+++++++++++++++staticText name='Lastname'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='Smith'
+++++++++++++++staticText name='Smith'
+++++++++++++++++inlineTextBox

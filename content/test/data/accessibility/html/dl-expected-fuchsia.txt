@@ -1,0 +1,13 @@
+UNKNOWN focusable has_input_focus
+++UNKNOWN hidden
+++++UNKNOWN hidden
+++++++UNKNOWN
+++++++++UNKNOWN
+++++++++++STATIC_TEXT label='Term'
+++++++++++++UNKNOWN
+++++++++UNKNOWN
+++++++++++STATIC_TEXT label='Description'
+++++++++++++UNKNOWN
+++++++UNKNOWN
+++++++++STATIC_TEXT label='Definition'
+++++++++++UNKNOWN

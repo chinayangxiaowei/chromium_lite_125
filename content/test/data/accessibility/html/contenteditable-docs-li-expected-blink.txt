@@ -1,0 +1,96 @@
+rootWebArea isLineBreakingObject=true
+++genericContainer ignored isLineBreakingObject=true
+++++genericContainer ignored isLineBreakingObject=true
+++++++textField multiline value='Beginning<newline>1. A plain list item<newline>2. A list item<newline>with a br (line break) inside it<newline>3. A list item with an inner p role=presentation<newline>4. A list item with both a br and<newline>an inner p role=presentation<newline>5. A list item with inner spans on each line<newline>and separated by a br<newline>6. A list item with a role presentation, and two inner spans, each separated by a space<newline>7. A list item with a role presentation, and two inner spans,<newline>each separated by a br<newline>8. Hello world this is like docs markup without the weird presentational br<newline>9. Hello world this is just like docs, and your kitchen sink<newline>The end' isLineBreakingObject=true
+++++++++paragraph isLineBreakingObject=true
+++++++++++staticText name='Beginning'
+++++++++++++inlineTextBox
+++++++++list isLineBreakingObject=true
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='1. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='1. '
+++++++++++++staticText name='A plain list item' previousOnLineId=staticText:"1. "
+++++++++++++++inlineTextBox previousOnLineId=staticText:"1. "
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='2. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='2. '
+++++++++++++staticText name='A list item' nextOnLineId=inlineTextBox previousOnLineId=staticText:"2. "
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=staticText:"2. "
+++++++++++++lineBreak name='<newline>' previousOnLineId=inlineTextBox isLineBreakingObject=true
+++++++++++++++inlineTextBox previousOnLineId=inlineTextBox isLineBreakingObject=true
+++++++++++++staticText name='with a br (line break) inside it'
+++++++++++++++inlineTextBox
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='3. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='3. '
+++++++++++++staticText name='A list item with an inner p role=presentation' previousOnLineId=staticText:"3. "
+++++++++++++++inlineTextBox previousOnLineId=staticText:"3. "
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='4. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='4. '
+++++++++++++staticText name='A list item with both a br and' nextOnLineId=inlineTextBox previousOnLineId=staticText:"4. "
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=staticText:"4. "
+++++++++++++lineBreak name='<newline>' previousOnLineId=inlineTextBox isLineBreakingObject=true
+++++++++++++++inlineTextBox previousOnLineId=inlineTextBox isLineBreakingObject=true
+++++++++++++staticText name='an inner p role=presentation'
+++++++++++++++inlineTextBox
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='5. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='5. '
+++++++++++++staticText name='A list item with ' nextOnLineId=inlineTextBox previousOnLineId=staticText:"5. "
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=staticText:"5. "
+++++++++++++staticText name='inner ' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++staticText name='spans' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++staticText name=' ' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++staticText name='on each line' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++lineBreak name='<newline>' previousOnLineId=inlineTextBox isLineBreakingObject=true
+++++++++++++++inlineTextBox previousOnLineId=inlineTextBox isLineBreakingObject=true
+++++++++++++staticText name='and separated by a br'
+++++++++++++++inlineTextBox
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='6. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='6. '
+++++++++++++staticText name='A list item with a role presentation, and two inner spans, ' nextOnLineId=inlineTextBox previousOnLineId=staticText:"6. "
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=staticText:"6. "
+++++++++++++staticText name='each separated by a space' previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox previousOnLineId=inlineTextBox
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='7. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='7. '
+++++++++++++staticText name='A list item with a role presentation, and two inner spans,' nextOnLineId=inlineTextBox previousOnLineId=staticText:"7. "
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=staticText:"7. "
+++++++++++++lineBreak name='<newline>' previousOnLineId=inlineTextBox isLineBreakingObject=true
+++++++++++++++inlineTextBox previousOnLineId=inlineTextBox isLineBreakingObject=true
+++++++++++++staticText name='each separated by a br'
+++++++++++++++inlineTextBox
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='8. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='8. '
+++++++++++++staticText name='Hello' nextOnLineId=inlineTextBox previousOnLineId=staticText:"8. "
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=staticText:"8. "
+++++++++++++staticText name=' ' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++staticText name='world this' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++staticText name=' ' nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox nextOnLineId=inlineTextBox previousOnLineId=inlineTextBox
+++++++++++++staticText name='is like docs markup without the weird presentational br' previousOnLineId=inlineTextBox
+++++++++++++++inlineTextBox previousOnLineId=inlineTextBox
+++++++++++listItem isLineBreakingObject=true
+++++++++++++listMarker name='9. ' nextOnLineId=inlineTextBox
+++++++++++++++staticText ignored name='9. '
+++++++++++++staticText name='Hello' previousOnLineId=staticText:"9. "
+++++++++++++++inlineTextBox previousOnLineId=staticText:"9. "
+++++++++++++staticText name=' ' previousOnLineId=inlineTextBox
+++++++++++++staticText name='world this'
+++++++++++++++inlineTextBox
+++++++++++++staticText name=' ' previousOnLineId=inlineTextBox
+++++++++++++staticText name='is just like docs, and your kitchen sink'
+++++++++++++++inlineTextBox
+++++++++paragraph isLineBreakingObject=true
+++++++++++staticText name='The end'
+++++++++++++inlineTextBox

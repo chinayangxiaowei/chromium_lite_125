@@ -1,0 +1,31 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++heading name='Accordion Section #1'
+++++++++button expanded name='Accordion Section #1' controlsIds=region
+++++++++++paragraph
+++++++++++++staticText name='Accordion Section #1'
+++++++++++++++inlineTextBox
+++++++region name='Accordion Section #1'
+++++++++paragraph
+++++++++++staticText name='Content for first section of accordion element.'
+++++++++++++inlineTextBox
+++++++heading name='Accordion Section #2'
+++++++++button collapsed name='Accordion Section #2' controlsIds=
+++++++++++paragraph
+++++++++++++staticText name='Accordion Section #2'
+++++++++++++++inlineTextBox
+++++++heading name='Accordion Section #3'
+++++++++button collapsed name='Accordion Section #3' controlsIds=
+++++++++++paragraph
+++++++++++++staticText name='Accordion Section #3'
+++++++++++++++inlineTextBox
+++++++heading name='Accordion Section #4'
+++++++++button expanded name='Accordion Section #4' restriction=disabled
+++++++++++paragraph
+++++++++++++staticText name='Accordion Section #4'
+++++++++++++++inlineTextBox
+++++++region name='Accordion Section #4'
+++++++++paragraph
+++++++++++staticText name='Content for forth section of accordion element. This section will always be visible but disabled.'
+++++++++++++inlineTextBox

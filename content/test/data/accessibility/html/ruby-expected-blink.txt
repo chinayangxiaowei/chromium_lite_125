@@ -1,0 +1,22 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++ruby description='ruby text' descriptionFrom=rubyAnnotation
+++++++++staticText name='ruby base'
+++++++++++inlineTextBox
+++++++++rubyAnnotation ignored
+++++++++++staticText ignored name='ruby text'
+++++++paragraph
+++++++++ruby description='ruby text' descriptionFrom=rubyAnnotation
+++++++++++staticText name='ruby base'
+++++++++++++inlineTextBox
+++++++++++rubyAnnotation ignored
+++++++++++++staticText ignored name='ruby text'
+++++++paragraph
+++++++++staticText name='Hi! '
+++++++++++inlineTextBox
+++++++++ruby description='ruby text' descriptionFrom=rubyAnnotation
+++++++++++staticText name='ruby base'
+++++++++++++inlineTextBox
+++++++++++rubyAnnotation ignored
+++++++++++++staticText ignored name='ruby text'

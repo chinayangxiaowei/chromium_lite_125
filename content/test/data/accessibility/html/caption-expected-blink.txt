@@ -1,0 +1,42 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++table name='Browser and Engine'
+++++++++caption
+++++++++++staticText name='Browser and Engine'
+++++++++++++inlineTextBox name='Browser and '
+++++++++++++inlineTextBox name='Engine'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++columnHeader name='Browser'
+++++++++++++++staticText name='Browser'
+++++++++++++++++inlineTextBox
+++++++++++++columnHeader name='Engine'
+++++++++++++++staticText name='Engine'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='Chrome'
+++++++++++++++staticText name='Chrome'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='Blink'
+++++++++++++++staticText name='Blink'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='Safari'
+++++++++++++++staticText name='Safari'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='WebKit'
+++++++++++++++staticText name='WebKit'
+++++++++++++++++inlineTextBox
+++++++table description='Description' name='Name' descriptionFrom=tableCaption
+++++++++caption
+++++++++++staticText name='Description'
+++++++++++++inlineTextBox
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox

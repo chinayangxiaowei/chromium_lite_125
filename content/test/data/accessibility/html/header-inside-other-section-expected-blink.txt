@@ -1,0 +1,18 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++article
+++++++++headerAsNonLandmark
+++++++++++paragraph
+++++++++++++staticText name='Header inside article.'
+++++++++++++++inlineTextBox
+++++++section
+++++++++headerAsNonLandmark
+++++++++++paragraph
+++++++++++++staticText name='Header inside section.'
+++++++++++++++inlineTextBox
+++++++main
+++++++++headerAsNonLandmark
+++++++++++paragraph
+++++++++++++staticText name='Header inside main.'
+++++++++++++++inlineTextBox

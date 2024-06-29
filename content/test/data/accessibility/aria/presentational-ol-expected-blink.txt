@@ -1,0 +1,16 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++section
+++++++++list
+++++++++++listItem
+++++++++++++listMarker name='1. '
+++++++++++++++staticText ignored name='1. '
+++++++++++++staticText name='List'
+++++++++++++++inlineTextBox
+++++++++none ignored
+++++++++++none ignored
+++++++++++++staticText name='1. '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Presentational list item'
+++++++++++++inlineTextBox

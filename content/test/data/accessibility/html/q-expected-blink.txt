@@ -1,0 +1,19 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++paragraph
+++++++++staticText name='This is '
+++++++++++inlineTextBox
+++++++++genericContainer ignored
+++++++++++genericContainer ignored
+++++++++++++genericContainer ignored
+++++++++++++++staticText name='%E2%80%9C'
+++++++++++++++++inlineTextBox
+++++++++++staticText name='Chromium Blink'
+++++++++++++inlineTextBox
+++++++++++genericContainer ignored
+++++++++++++genericContainer ignored
+++++++++++++++staticText name='%E2%80%9D'
+++++++++++++++++inlineTextBox
+++++++++staticText name=' based browser.'
+++++++++++inlineTextBox

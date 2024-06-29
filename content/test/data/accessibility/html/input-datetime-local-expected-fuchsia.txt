@@ -1,0 +1,36 @@
+UNKNOWN focusable has_input_focus
+++UNKNOWN hidden
+++++UNKNOWN
+++++++UNKNOWN focusable actions='{DEFAULT, SET_VALUE}'
+++++++++UNKNOWN hidden
+++++++++++UNKNOWN
+++++++++++++UNKNOWN
+++++++++++++++UNKNOWN focusable label='Month' actions='{SET_VALUE}'
+++++++++++++++++STATIC_TEXT label='mm'
+++++++++++++++++++UNKNOWN
+++++++++++++++STATIC_TEXT label='/'
+++++++++++++++++UNKNOWN
+++++++++++++++UNKNOWN focusable label='Day' actions='{SET_VALUE}'
+++++++++++++++++STATIC_TEXT label='dd'
+++++++++++++++++++UNKNOWN
+++++++++++++++STATIC_TEXT label='/'
+++++++++++++++++UNKNOWN
+++++++++++++++UNKNOWN focusable label='Year' actions='{SET_VALUE}'
+++++++++++++++++STATIC_TEXT label='yyyy'
+++++++++++++++++++UNKNOWN
+++++++++++++++STATIC_TEXT label=', '
+++++++++++++++++UNKNOWN
+++++++++++++++UNKNOWN focusable label='Hours' actions='{SET_VALUE}'
+++++++++++++++++STATIC_TEXT label='--'
+++++++++++++++++++UNKNOWN
+++++++++++++++STATIC_TEXT label=':'
+++++++++++++++++UNKNOWN
+++++++++++++++UNKNOWN focusable label='Minutes' actions='{SET_VALUE}'
+++++++++++++++++STATIC_TEXT label='--'
+++++++++++++++++++UNKNOWN
+++++++++++++++STATIC_TEXT label=' '
+++++++++++++++++UNKNOWN
+++++++++++++++UNKNOWN focusable label='AM/PM' actions='{SET_VALUE}'
+++++++++++++++++STATIC_TEXT label='--'
+++++++++++++++++++UNKNOWN
+++++++++++UNKNOWN focusable label='Show local date and time picker' actions='{DEFAULT}' secondary_label='Show local date and time picker'

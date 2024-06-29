@@ -1,0 +1,33 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++paragraph
+++++++++staticText name='This text contains '
+++++++++++inlineTextBox
+++++++++subscript textPosition=subscript
+++++++++++staticText name='subscript' textPosition=subscript
+++++++++++++inlineTextBox
+++++++++staticText name=' text.'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='H'
+++++++++++inlineTextBox
+++++++++subscript textPosition=subscript
+++++++++++staticText name=' ' textPosition=subscript
+++++++++++++inlineTextBox
+++++++++++contentDeletion textPosition=subscript
+++++++++++++genericContainer name='3' textPosition=subscript
+++++++++++++++genericContainer name='oops' textPosition=subscript
+++++++++++++++++staticText name='3' textPosition=subscript
+++++++++++++++++++inlineTextBox
+++++++++++staticText name=' ' textPosition=subscript
+++++++++++++inlineTextBox
+++++++++++contentInsertion textPosition=subscript
+++++++++++++link name='2' textPosition=subscript
+++++++++++++++genericContainer name='better' textPosition=subscript
+++++++++++++++++staticText name='2' textPosition=subscript
+++++++++++++++++++inlineTextBox
+++++++++++staticText name=' ' textPosition=subscript
+++++++++++++inlineTextBox
+++++++++staticText name='O'
+++++++++++inlineTextBox

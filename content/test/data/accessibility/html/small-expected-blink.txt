@@ -1,0 +1,8 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++paragraph
+++++++++staticText name='Chromium'
+++++++++++inlineTextBox
+++++++++staticText name='open source project'
+++++++++++inlineTextBox

@@ -1,0 +1,55 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++paragraph
+++++++++staticText name='The '
+++++++++++inlineTextBox
+++++++++staticText name='quick' textStyle=2
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='brown' textStyle=4
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='fox' textStyle=8
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='jumped' textStyle=6
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='over' textStyle=12
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='dog' textStyle=14
+++++++++++inlineTextBox
+++++++genericContainer multiline value='Normal bold italic underline line-through subscript superscript'
+++++++++staticText name='Normal'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='bold' textStyle=2
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='italic' textStyle=4
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='underline' textStyle=8
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='line-through' textStyle=16
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='subscript' textPosition=subscript
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='superscript' textPosition=superscript
+++++++++++inlineTextBox

@@ -1,0 +1,16 @@
+rootWebArea htmlTag='#document'
+++genericContainer ignored htmlTag='html'
+++++genericContainer ignored htmlTag='head'
+++++++genericContainer htmlTag='style'
+++++++++staticText name='head,style,script { display:block; }'
+++++++++++inlineTextBox
+++++++genericContainer htmlTag='script'
+++++++++staticText name='var x = 3;'
+++++++++++inlineTextBox
+++++genericContainer ignored htmlTag='body'
+++++++genericContainer htmlTag='style'
+++++++++staticText name='p { outline: 2px solid green; }'
+++++++++++inlineTextBox
+++++++genericContainer htmlTag='script'
+++++++++staticText name='var x = 3;'
+++++++++++inlineTextBox

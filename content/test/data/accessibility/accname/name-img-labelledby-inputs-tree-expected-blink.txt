@@ -1,0 +1,16 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer
+++++++textField value='peanuts'
+++++++++genericContainer
+++++++++++staticText name='peanuts'
+++++++++++++inlineTextBox
+++++++textField value='popcorn'
+++++++++genericContainer
+++++++++++staticText name='popcorn'
+++++++++++++inlineTextBox
+++++++textField value='apple jacks'
+++++++++genericContainer
+++++++++++staticText name='apple jacks'
+++++++++++++inlineTextBox
+++++++image name='peanuts popcorn apple jacks'

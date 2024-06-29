@@ -1,0 +1,16 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++section
+++++++++group name='Browser Engines:'
+++++++++++legend
+++++++++++++staticText name='Browser Engines:'
+++++++++++++++inlineTextBox
+++++++++++staticText name='Browser: '
+++++++++++++inlineTextBox
+++++++++++textField
+++++++++++++genericContainer
+++++++++++staticText name=' Rendering Engine: '
+++++++++++++inlineTextBox
+++++++++++textField
+++++++++++++genericContainer

@@ -1,0 +1,9 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer
+++++++staticText name='Supercali'
+++++++++inlineTextBox
+++++++staticText name='fragilistic'
+++++++++inlineTextBox
+++++++staticText name='expialidocious'
+++++++++inlineTextBox

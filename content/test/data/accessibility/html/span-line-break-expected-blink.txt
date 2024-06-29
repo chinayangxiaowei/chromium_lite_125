@@ -1,0 +1,63 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++paragraph
+++++++++staticText name='100(a)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='100(b)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='100(c)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='500(a)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='500(b)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='500(c)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='900(a)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='900(b)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++staticText name='900(c)#abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++staticText name='abcdefghijklmnopqrstuvwxyz'
+++++++++++inlineTextBox

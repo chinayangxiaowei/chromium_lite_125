@@ -1,0 +1,53 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++listBox multiselectable name='My Listbox'
+++++++++listBoxOption name='Example 1' selected=false
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Example 1'
+++++++++++++inlineTextBox
+++++++++listBoxOption name='Example 2' selected=false
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Example 2'
+++++++++++++inlineTextBox
+++++++++listBoxOption name='Example 3' selected=false
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Example 3'
+++++++++++++inlineTextBox
+++++++++listBoxOption name='Example 4' selected=false
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Example 4'
+++++++++++++inlineTextBox
+++++++listBox multiselectable name='My Listbox'
+++++++++listBoxOption name='Example 1' selected=false
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Example 1'
+++++++++++++inlineTextBox
+++++++++listBoxOption name='Example 2' selected=true
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Example 2'
+++++++++++++inlineTextBox
+++++++++listBoxOption name='Example 3' selected=false
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Example 3'
+++++++++++++inlineTextBox
+++++++++listBoxOption name='Example 4' selected=true
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Example 4'
+++++++++++++inlineTextBox

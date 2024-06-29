@@ -1,0 +1,22 @@
+rootWebArea focusable
+++genericContainer ignored
+++++genericContainer ignored
+++++++genericContainer focusable name='Done'
+++++++genericContainer
+++++++++staticText name='State'
+++++++++++inlineTextBox
+++++++textFieldWithComboBox focusable autoComplete='list' name='State' activedescendantId=listBoxOption restriction=readOnly haspopup=listbox controlsIds=listBox
+++++++++genericContainer
+++++++listBox
+++++++++listBoxOption focusable name='Alabama' selected=false
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Alabama'
+++++++++++++inlineTextBox
+++++++++listBoxOption focusable name='Alaska' selected=true
+++++++++++none ignored
+++++++++++++staticText name='%E2%80%A2 '
+++++++++++++++inlineTextBox
+++++++++++staticText name='Alaska'
+++++++++++++inlineTextBox

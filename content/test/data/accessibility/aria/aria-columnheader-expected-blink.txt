@@ -1,0 +1,25 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++grid
+++++++++row
+++++++++++columnHeader name='Browser'
+++++++++++++staticText name='Browser'
+++++++++++++++inlineTextBox
+++++++++++columnHeader name='Rendering Engine'
+++++++++++++staticText name='Rendering Engine'
+++++++++++++++inlineTextBox
+++++++++row
+++++++++++cell name='Chrome'
+++++++++++++staticText name='Chrome'
+++++++++++++++inlineTextBox
+++++++++++cell name='Blink'
+++++++++++++staticText name='Blink'
+++++++++++++++inlineTextBox
+++++++++row
+++++++++++cell name='Safari'
+++++++++++++staticText name='Safari'
+++++++++++++++inlineTextBox
+++++++++++cell name='WebKit'
+++++++++++++staticText name='WebKit'
+++++++++++++++inlineTextBox

@@ -1,0 +1,21 @@
+<style>
+  .app-container {
+    width: 100%;
+    height: 100%;
+    /* Make it evident what is the live page peeking through vs screenshot. */
+    background-color: rgba(60, 60, 60, 0.5);
+  }
+
+  #closeButton {
+    position: absolute;
+    inset-block-start: 24px;
+    inset-inline-end: 24px;
+  }
+</style>
+<div class="app-container">
+  <lens-selection-overlay></lens-selection-overlay>
+  <cr-button id="closeButton" class="action-button"
+      on-click="onCloseButtonClick_">
+    $i18n{close}
+  </cr-button>
+</div>

@@ -1,0 +1,16 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer
+++++++staticText name=' '
+++++++++inlineTextBox
+++++++image name=''
+++++++staticText name=' '
+++++++++inlineTextBox
+++++++staticText name=' '
+++++++++inlineTextBox
+++++++staticText name=' '
+++++++++inlineTextBox
+++++++image
+++++++staticText name=' '
+++++++++inlineTextBox
+++++++image name='full'

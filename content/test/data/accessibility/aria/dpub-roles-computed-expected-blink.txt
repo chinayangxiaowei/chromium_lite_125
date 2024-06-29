@@ -1,0 +1,29 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++docBibliography
+++++++++list
+++++++++++docBiblioEntry
+++++++++++++staticText name='biblioentry'
+++++++++++++++inlineTextBox
+++++++++++list
+++++++++++++listItem
+++++++++++++++staticText name='not a biblioentry'
+++++++++++++++++inlineTextBox
+++++++++list
+++++++++++docBiblioEntry
+++++++++++++staticText name='biblioentry'
+++++++++++++++inlineTextBox
+++++++docEndnotes
+++++++++list
+++++++++++docEndnote
+++++++++++++staticText name='endnote'
+++++++++++++++inlineTextBox
+++++++++++list
+++++++++++++listItem
+++++++++++++++staticText name='not an endnote'
+++++++++++++++++inlineTextBox
+++++++++list
+++++++++++docEndnote
+++++++++++++staticText name='endnote'
+++++++++++++++inlineTextBox

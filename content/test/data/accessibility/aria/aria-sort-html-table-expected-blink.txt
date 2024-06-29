@@ -1,0 +1,153 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++columnHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++columnHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++columnHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++columnHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++columnHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++rowHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++rowHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++rowHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++rowHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++rowHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++table name='Data table'
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++columnHeader name='Alphabet'
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='A'
+++++++++++++++staticText name='A'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell name='B'
+++++++++++++++staticText name='B'
+++++++++++++++++inlineTextBox
+++++++none ignored
+++++++++genericContainer ignored
+++++++++++genericContainer ignored
+++++++++++++genericContainer
+++++++++++++++staticText name='Alphabet'
+++++++++++++++++inlineTextBox

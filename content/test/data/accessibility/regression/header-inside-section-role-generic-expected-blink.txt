@@ -1,0 +1,12 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++header
+++++++++paragraph
+++++++++++staticText name='header inside section with role presentational.'
+++++++++++++inlineTextBox
+++++++genericContainer
+++++++++header
+++++++++++paragraph
+++++++++++++staticText name='header inside section with role generic.'
+++++++++++++++inlineTextBox

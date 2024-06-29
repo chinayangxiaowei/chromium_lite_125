@@ -1,0 +1,16 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer
+++++++link name='unread '
+++++++++staticText name='unread '
+++++++++++inlineTextBox
+++++++link name='read '
+++++++++staticText name='read '
+++++++++++inlineTextBox
+++++++link name='read '
+++++++++staticText name='read '
+++++++++++inlineTextBox
+++++++link name='read'
+++++++++image
+++++++++staticText name='read'
+++++++++++inlineTextBox

@@ -1,0 +1,33 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++list
+++++++++listItem hierarchicalLevel=1
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++staticText name='tic'
+++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++staticText name='tac'
+++++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++staticText name='toe'
+++++++++++++inlineTextBox
+++++++list
+++++++++listItem hierarchicalLevel=1
+++++++++++staticText name='tic'
+++++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++staticText name='tac'
+++++++++++++inlineTextBox
+++++++++staticText name=' '
+++++++++++inlineTextBox
+++++++++listItem hierarchicalLevel=1
+++++++++++staticText name='toe'
+++++++++++++inlineTextBox

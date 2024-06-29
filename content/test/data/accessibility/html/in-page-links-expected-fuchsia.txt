@@ -1,0 +1,54 @@
+UNKNOWN focusable has_input_focus
+++UNKNOWN hidden
+++++UNKNOWN hidden
+++++++LINK focusable label='Empty anchor' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Empty anchor' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++LINK focusable label='Anchor with content' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Anchor with content' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++LINK focusable label='Anchor with ID' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Anchor with ID' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++LINK focusable label='Empty span' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Empty span' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++LINK focusable label='Span with content' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Span with content' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label=' '
+++++++++UNKNOWN
+++++++LINK focusable label='Paragraph with content' actions='{DEFAULT}'
+++++++++STATIC_TEXT label='Paragraph with content' actions='{DEFAULT}'
+++++++++++UNKNOWN
+++++++PARAGRAPH
+++++++++UNKNOWN
+++++++++STATIC_TEXT label='After empty anchor'
+++++++++++UNKNOWN
+++++++PARAGRAPH
+++++++++UNKNOWN
+++++++++++STATIC_TEXT label='Anchor with content'
+++++++++++++UNKNOWN
+++++++PARAGRAPH
+++++++++UNKNOWN
+++++++++++STATIC_TEXT label='Anchor with ID'
+++++++++++++UNKNOWN
+++++++PARAGRAPH
+++++++++UNKNOWN
+++++++++STATIC_TEXT label='After empty span'
+++++++++++UNKNOWN
+++++++PARAGRAPH
+++++++++UNKNOWN
+++++++++++STATIC_TEXT label='Span with content'
+++++++++++++UNKNOWN
+++++++PARAGRAPH
+++++++++STATIC_TEXT label='Paragraph with content'
+++++++++++UNKNOWN

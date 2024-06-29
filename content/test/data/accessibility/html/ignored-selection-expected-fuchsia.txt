@@ -1,0 +1,10 @@
+UNKNOWN focusable has_input_focus
+++UNKNOWN hidden
+++++UNKNOWN hidden
+++++++STATIC_TEXT label='this text is not ignored'
+++++++++UNKNOWN
+++++++UNKNOWN
+++++++++STATIC_TEXT label='after selection'
+++++++++++UNKNOWN
+++++++STATIC_TEXT label='Done'
+++++++++UNKNOWN

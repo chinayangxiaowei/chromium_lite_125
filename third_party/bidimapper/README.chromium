@@ -1,0 +1,63 @@
+Name: Implementation of WebDriver BiDi standard
+Short Name: chromium-bidi
+URL: https://github.com/GoogleChromeLabs/chromium-bidi/archive/923a0fd4db60b4629e01846f85057000c503d18e.zip
+Version: N/A
+Date: 2024-04-08
+Revision: 923a0fd4db60b4629e01846f85057000c503d18e
+SHA-512: 21573ee14cb15a70a738d755674086328b8f165597a3a1645b1c6d5de67404d88dda6104e4f8416b3a752827a9b01d95ee88eae00532e4ef50ddc9d6bd84ebad
+License: Apache 2.0
+License File: LICENSE
+Shipped: yes
+Security Critical: no
+CPEPrefix: unknown
+
+Description:
+WebDriver BiDi implementation for ChromeDriver.
+The software is compiled into mapper.js script that is uploaded by ChromeDriver into the Chrome browser.
+
+Steps to build:
+Assume the git-revision-full-sha1 is the wanted revision.
+It can be found in the upstream repo: https://github.com/GoogleChromeLabs/chromium-bidi/commits/main.
+
+```bash
+cd directory-of-this-README.chromium
+./pull.sh git-revision-full-sha1
+./build.sh
+```
+
+The file README.chromium will be updated by build.sh
+
+Local Modifications:
+Local modifications are not allowed.
+The upstream is maintained by the Chromium developers.
+All the changes must be done there.
+
+-------------------- DEPENDENCY DIVIDER --------------------
+
+Name: mitt
+URL: https://github.com/developit/mitt
+Version: 3.0.1
+License: MIT
+Security Critical: no
+Shipped: yes
+License File: licenses/LICENSE.mitt
+
+-------------------- DEPENDENCY DIVIDER --------------------
+
+Name: urlpattern-polyfill
+URL: https://github.com/kenchris/urlpattern-polyfill
+Version: 10.0.0
+License: MIT
+Security Critical: no
+Shipped: yes
+License File: licenses/LICENSE.urlpattern_polyfill
+
+-------------------- DEPENDENCY DIVIDER --------------------
+
+Name: zod
+URL: https://zod.dev
+Version: 3.22.4
+License: MIT
+Security Critical: no
+Shipped: yes
+License File: licenses/LICENSE.zod

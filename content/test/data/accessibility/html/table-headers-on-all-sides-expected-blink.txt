@@ -1,0 +1,49 @@
+rootWebArea name='Table example - headers on all sides'
+++genericContainer ignored
+++++genericContainer ignored
+++++++table
+++++++++rowGroup ignored
+++++++++++row
+++++++++++++cell
+++++++++++++columnHeader name='Red'
+++++++++++++++staticText name='Red'
+++++++++++++++++inlineTextBox
+++++++++++++columnHeader name='Green'
+++++++++++++++staticText name='Green'
+++++++++++++++++inlineTextBox
+++++++++++++cell
+++++++++++row
+++++++++++++rowHeader name='Fruit'
+++++++++++++++staticText name='Fruit'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='strawberry'
+++++++++++++++staticText name='strawberry'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='lime'
+++++++++++++++staticText name='lime'
+++++++++++++++++inlineTextBox
+++++++++++++rowHeader name='Fruit'
+++++++++++++++staticText name='Fruit'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++rowHeader name='Veggies'
+++++++++++++++staticText name='Veggies'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='radish'
+++++++++++++++staticText name='radish'
+++++++++++++++++inlineTextBox
+++++++++++++cell name='spinach'
+++++++++++++++staticText name='spinach'
+++++++++++++++++inlineTextBox
+++++++++++++rowHeader name='Veggies'
+++++++++++++++staticText name='Veggies'
+++++++++++++++++inlineTextBox
+++++++++++row
+++++++++++++cell
+++++++++++++columnHeader name='Red'
+++++++++++++++staticText name='Red'
+++++++++++++++++inlineTextBox
+++++++++++++columnHeader name='Green'
+++++++++++++++staticText name='Green'
+++++++++++++++++inlineTextBox
+++++++++++++cell

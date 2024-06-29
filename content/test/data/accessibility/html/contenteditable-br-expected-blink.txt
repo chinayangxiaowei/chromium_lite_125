@@ -1,0 +1,11 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++textField multiline value='A paragraph with a br<newline>inside of it'
+++++++++paragraph
+++++++++++staticText name='A paragraph with a br' nextOnLineId=inlineTextBox
+++++++++++++inlineTextBox nextOnLineId=inlineTextBox
+++++++++++lineBreak name='<newline>' previousOnLineId=inlineTextBox
+++++++++++++inlineTextBox previousOnLineId=inlineTextBox
+++++++++++staticText name='inside of it'
+++++++++++++inlineTextBox

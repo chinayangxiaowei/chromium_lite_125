@@ -1,0 +1,189 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++list
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='%E2%80%A2 '
+++++++++++staticText name='disc'
+++++++++++++inlineTextBox
+++++++list
+++++++++listItem listStyle=circle
+++++++++++listMarker name='%E2%97%A6 '
+++++++++++++staticText ignored name='%E2%97%A6 '
+++++++++++staticText name='circle'
+++++++++++++inlineTextBox
+++++++list
+++++++++listItem listStyle=square
+++++++++++listMarker name='%E2%96%A0 '
+++++++++++++staticText ignored name='%E2%96%A0 '
+++++++++++staticText name='square'
+++++++++++++inlineTextBox
+++++++list
+++++++++listItem listStyle=other
+++++++++++listMarker name='%E2%96%BE '
+++++++++++++staticText ignored name='%E2%96%BE '
+++++++++++staticText name='disclosure-open'
+++++++++++++inlineTextBox
+++++++list
+++++++++listItem listStyle=other
+++++++++++listMarker name='%E2%96%B8 '
+++++++++++++staticText ignored name='%E2%96%B8 '
+++++++++++staticText name='disclosure-closed'
+++++++++++++inlineTextBox
+++++++list
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='explicit-bullets'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='1. '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='explicit-numbers'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='2. '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='3. '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=other
+++++++++++listMarker name='One. '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='explicit-words'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=other
+++++++++++listMarker name='Two. '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=other
+++++++++++listMarker name='Three. '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=other
+++++++++++listMarker name='One. '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='auto-alphabetic'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=other
+++++++++++listMarker name='Two. '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=other
+++++++++++listMarker name='Three. '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='auto-cyclic'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='auto-extends'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='1. '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='auto-fixed'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='2. '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='3. '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='1. '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='auto-symbolic'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='2. '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='3. '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='1. '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='auto-numeric'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='2. '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='3. '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='1. '
+++++++++++++staticText ignored name='One. '
+++++++++++staticText name='auto-additive'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='2. '
+++++++++++++staticText ignored name='Two. '
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='3. '
+++++++++++++staticText ignored name='Three. '
+++++++list
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='Yi> '
+++++++++++staticText name='reference-bullets'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='Er> '
+++++++++listItem listStyle=disc
+++++++++++listMarker name='%E2%80%A2 '
+++++++++++++staticText ignored name='San> '
+++++++list
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='1> '
+++++++++++++staticText ignored name='Yi> '
+++++++++++staticText name='reference-numbers'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='2> '
+++++++++++++staticText ignored name='Er> '
+++++++++listItem listStyle=numeric
+++++++++++listMarker name='3> '
+++++++++++++staticText ignored name='San> '
+++++++list
+++++++++listItem listStyle=other
+++++++++++listMarker name='One> '
+++++++++++++staticText ignored name='Yi> '
+++++++++++staticText name='reference-words'
+++++++++++++inlineTextBox
+++++++++listItem listStyle=other
+++++++++++listMarker name='Two> '
+++++++++++++staticText ignored name='Er> '
+++++++++listItem listStyle=other
+++++++++++listMarker name='Three> '
+++++++++++++staticText ignored name='San> '

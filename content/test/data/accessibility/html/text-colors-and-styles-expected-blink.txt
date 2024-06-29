@@ -1,0 +1,22 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++paragraph
+++++++++staticText name='color'
+++++++++++inlineTextBox
+++++++heading name='text size'
+++++++++staticText name='text size'
+++++++++++inlineTextBox
+++++++heading name='text style'
+++++++++staticText name='text style'
+++++++++++inlineTextBox
+++++++paragraph
+++++++++strong
+++++++++++staticText name='strong'
+++++++++++++inlineTextBox
+++++++staticText name='italic'
+++++++++inlineTextBox
+++++++staticText name=' '
+++++++++inlineTextBox
+++++++staticText name='bold'
+++++++++inlineTextBox

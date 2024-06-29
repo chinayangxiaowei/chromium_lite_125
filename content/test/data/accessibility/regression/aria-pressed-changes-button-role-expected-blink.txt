@@ -1,0 +1,27 @@
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++button name='Test'
+++++++++staticText name='Test'
+++++++++++inlineTextBox
+++++++genericContainer
+=== Start Continuation ===
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++toggleButton name='Test' checkedState=true
+++++++++staticText name='Test'
+++++++++++inlineTextBox
+++++++genericContainer
+++++++++staticText name='Test 1'
+++++++++++inlineTextBox
+=== Start Continuation ===
+rootWebArea
+++genericContainer ignored
+++++genericContainer ignored
+++++++button name='Test'
+++++++++staticText name='Test'
+++++++++++inlineTextBox
+++++++genericContainer
+++++++++staticText name='Test 2'
+++++++++++inlineTextBox

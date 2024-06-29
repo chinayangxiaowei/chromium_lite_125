@@ -1,0 +1,11 @@
+UNKNOWN focusable has_input_focus
+++UNKNOWN hidden
+++++UNKNOWN hidden
+++++++PARAGRAPH
+++++++++STATIC_TEXT label='The '
+++++++++++UNKNOWN
+++++++++UNKNOWN label='World Health Organization'
+++++++++++STATIC_TEXT label='WHO'
+++++++++++++UNKNOWN
+++++++++STATIC_TEXT label=' was founded in 1948.'
+++++++++++UNKNOWN
